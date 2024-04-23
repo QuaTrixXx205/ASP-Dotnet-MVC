@@ -8160,11 +8160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ASP-Dotnet-MVC\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\ASP-Dotnet-MVC\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\ASP-Dotnet-MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
